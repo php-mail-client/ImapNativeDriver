@@ -16,7 +16,8 @@
 	},
 	"require": {
 		"php": ">= 5.4.0",
-		"php-mail-client/client": "@dev"
+		"php-mail-client/client": "@dev",
+		"php-mail-client/native-imap-client": "@dev"
 	},
 	"require-dev": {
 		"nette/tester": "@dev"
