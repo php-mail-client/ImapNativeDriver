@@ -11,7 +11,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"PhpMailClient\\ImapNativeDriver": "src/"
+			"PhpMailClient\\ImapNativeDriver\\": "src/"
 		}
 	},
 	"require": {
